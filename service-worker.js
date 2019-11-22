@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mortal-combat/precache-manifest.9f899fb139d579242ac40911c11a43fd.js"
+  "/mortal-combat/precache-manifest.2345db6dfb4365c641af9bce399bed5e.js"
 );
 
 self.addEventListener('message', (event) => {
