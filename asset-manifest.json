@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mortal-combat/static/css/main.c46ac7de.chunk.css",
-    "main.js": "/mortal-combat/static/js/main.5d6fc26a.chunk.js",
-    "main.js.map": "/mortal-combat/static/js/main.5d6fc26a.chunk.js.map",
+    "main.js": "/mortal-combat/static/js/main.2905579a.chunk.js",
+    "main.js.map": "/mortal-combat/static/js/main.2905579a.chunk.js.map",
     "runtime-main.js": "/mortal-combat/static/js/runtime-main.ea67647c.js",
     "runtime-main.js.map": "/mortal-combat/static/js/runtime-main.ea67647c.js.map",
     "static/css/2.de43ec1a.chunk.css": "/mortal-combat/static/css/2.de43ec1a.chunk.css",
     "static/js/2.c3f5af2e.chunk.js": "/mortal-combat/static/js/2.c3f5af2e.chunk.js",
     "static/js/2.c3f5af2e.chunk.js.map": "/mortal-combat/static/js/2.c3f5af2e.chunk.js.map",
     "index.html": "/mortal-combat/index.html",
-    "precache-manifest.2345db6dfb4365c641af9bce399bed5e.js": "/mortal-combat/precache-manifest.2345db6dfb4365c641af9bce399bed5e.js",
+    "precache-manifest.fec554828a70af61227e8dd3526a5663.js": "/mortal-combat/precache-manifest.fec554828a70af61227e8dd3526a5663.js",
     "service-worker.js": "/mortal-combat/service-worker.js",
     "static/css/2.de43ec1a.chunk.css.map": "/mortal-combat/static/css/2.de43ec1a.chunk.css.map",
     "static/css/main.c46ac7de.chunk.css.map": "/mortal-combat/static/css/main.c46ac7de.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.de43ec1a.chunk.css",
     "static/js/2.c3f5af2e.chunk.js",
     "static/css/main.c46ac7de.chunk.css",
-    "static/js/main.5d6fc26a.chunk.js"
+    "static/js/main.2905579a.chunk.js"
   ]
 }

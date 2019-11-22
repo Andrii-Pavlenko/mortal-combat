@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd6bec43bab8bdbb41b6249ba3446537",
+    "revision": "eba625de7f6b58c418e2aabd7818cbe8",
     "url": "/mortal-combat/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mortal-combat/static/css/2.de43ec1a.chunk.css"
   },
   {
-    "revision": "9fe619109bcc970a530b",
+    "revision": "61ff24f8cce453ecc6cb",
     "url": "/mortal-combat/static/css/main.c46ac7de.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mortal-combat/static/js/2.c3f5af2e.chunk.js"
   },
   {
-    "revision": "9fe619109bcc970a530b",
-    "url": "/mortal-combat/static/js/main.5d6fc26a.chunk.js"
+    "revision": "61ff24f8cce453ecc6cb",
+    "url": "/mortal-combat/static/js/main.2905579a.chunk.js"
   },
   {
     "revision": "40a93a88dd31b945033d",
