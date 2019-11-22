@@ -3,8 +3,8 @@ const images = [
   {
     "name": "Bi-Han",
     "id": "1",
-    "icon": "../images/Bi-Han.gif",
-    "show": "../images/Bi-Han_show.gif",
+    "icon": "./images/Bi-Han.gif",
+    "show": "./images/Bi-Han_show.gif",
     "vs": "./images/Bi-Han_vs.png"
   },
 
@@ -83,7 +83,7 @@ const images = [
   {
     "name": "Dragon",
     "id": "11",
-    "icon": "./images/Center.gif",
+    "icon": "./images/center.gif",
   },
 
   {

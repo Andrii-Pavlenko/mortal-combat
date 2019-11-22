@@ -47,7 +47,7 @@ function Vs({ images, activeId, findFighter, findName, randomId }) {
       <div className="left">
         <div className="left_side"></div>
         <div className="left_container">
-          <img src="../images/vs_dragon_left.gif" alt="left dragon" className="left_dragon"/>
+          <img src="./images/vs_dragon_left.gif" alt="left dragon" className="left_dragon"/>
           <img
             src={findFighter(images, activeId)}
             alt={findName(images, activeId)} 
@@ -57,9 +57,9 @@ function Vs({ images, activeId, findFighter, findName, randomId }) {
       </div>
       <div className="vs_center">
         <div className="vs_center_upper">
-          <img src="../images/Battle_title.gif" alt="Battle" className="battle" />
-          <img src="../images/1.jpg" alt="first" className="number" />
-          <img src="../images/vs_word.gif" alt="vs" className="vs" />
+          <img src="./images/Battle_title.gif" alt="Battle" className="battle" />
+          <img src="./images/1.jpg" alt="first" className="number" />
+          <img src="./images/vs_word.gif" alt="vs" className="vs" />
         </div>
         <div className="vsCenter_lover">
           <i className="fa fa-fonticons fa-4x fonticon" style={{ color: firstColor }}></i> 
@@ -72,7 +72,7 @@ function Vs({ images, activeId, findFighter, findName, randomId }) {
       </div>
       <div className="right">        
         <div className="right_container">
-          <img src="../images/vs_dragon_right.gif" alt="right dragon" className="right_dragon"/>
+          <img src="./images/vs_dragon_right.gif" alt="right dragon" className="right_dragon"/>
           <img src={randomId} alt={findName(images, activeId)} className="right_fighter" />
         </div>
         <div className="right_side"></div>
